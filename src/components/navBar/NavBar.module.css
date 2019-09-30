@@ -1,0 +1,17 @@
+.nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #fff;
+}
+
+.link {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: none;
+    list-style-type: none;
+    text-transform: uppercase;
+    transition: 0.5s;
+}
+
